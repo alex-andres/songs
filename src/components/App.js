@@ -7,7 +7,7 @@ const App = () =>{
     <div>
       <SongList />
     </div>
-  )
-}
+  );
+};
 
 export default App;
